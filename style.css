@@ -1,0 +1,46 @@
+.offer {
+    background-color: rgb(255, 255, 255);
+}
+
+.road {
+    position: relative;
+    top: -70px;
+}
+
+.coldivs {
+    cursor: pointer;
+}
+.coldivs:hover {
+    background-color: rgba(197, 197, 255, 0.301);
+}
+
+
+/* dropdown nav styling */
+.mobile-nav{
+    background-color: rgba(13, 13, 13, 0.815);
+    display: none;
+    padding: 50px;
+    position: absolute;
+    top: 50px;
+    right: 10px;
+    backdrop-filter: blur(8px);
+}
+
+.mobile-nav a {
+    text-decoration: none;
+}
+
+
+.offer-sec{
+    background-color: rgba(6, 1, 33, 0.53); 
+    /* backdrop-filter: blur(8px); */
+    border-radius: 40px;
+}
+
+
+
+/* footer section */
+.footerg {
+    min-height: 300px;
+    background-color: #1d1d1d;
+}
